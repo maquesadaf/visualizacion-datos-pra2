@@ -1,4 +1,4 @@
-# visualizacion-datos-pra2
+# Mercamadrid
 Mercamadrid - Creación de la visualización y entrega del proyecto (Práctica II)
 
 # Visualización:
